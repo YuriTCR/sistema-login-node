@@ -23,4 +23,4 @@ Projeto full stack simples de autenticação com:
 - JavaScript
 - HTML5
 - CSS3
-- Banco de dados (SQLite / MongoDB / MySQL — escolha o que usar)
+- Banco de dados (SQLite)
